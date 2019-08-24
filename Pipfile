@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 Django = ">=2.2.4"
+gunicorn = "==19.9"
 requests = "==2.22"
 openpyxl = "==2.6"
 dropbox = "==9.4"
