@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-Django = ">=2.2.4"
+Django = "<2.2"
 gunicorn = "==19.9"
 requests = "==2.22"
 openpyxl = "==2.6"
